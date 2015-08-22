@@ -1,6 +1,6 @@
-# Tibetan Sacred Texts TEI format conventions
+# Kangyur Critical Edition TEI format conventions
 
-Abbreviated as TSTT (Tibetan Sacred Text Tags).
+This document supposes some basic knowledge on [TEI tags](http://www.tei-c.org/index.xml).
 
 ## Goal
 
