@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Test</title>
-      </titleStm>
+      </titleStmt>
       <respStmt>
         <resp>Initial digitalization (2014)</resp>
         <persName>Esukhia</persName>
@@ -39,16 +39,18 @@
         <pb n="17.1b" ed="#DG"/><pb n="17.3a" ed="#UG"/>
         ༄༅༅། །རྒྱ་གར་སྐད་དུ། བི་ན་ཡ་བསྟུ། བོད་སྐད་དུ། འདུལ་བ་གཞི། 
         <lb ed="#DG"/><!-- linebreaks are edition-specific -->
-        བམ་པོ་དང་པོ།<lb ed="#UG"> དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །གང་གིས་འཆིང་ རྣམས་ཡང་དག་རབ་བཅད་ཅིང་།
-        <pb n="17.2a" ed="#DG"/>།མུ་སྟེགས་ཚོགས་རྣམས་ཐམས་ཅད་<pb n="17.3b" ed="#UG">རབ་བཅོམ་སྟེ། །སྡེ་དང་བཅས་པའི་བདུད་རྣམས་ངེས་བཅོམ་ནས། །བྱང་ཆུབ་འདི་བརྙེས་དེ་ལ་ཕྱག་འཚལ་ལོ། །ཁྱིམ་དོན་ཆེ་ཆུང་སྤངས་ཏེ་དང་
+        བམ་པོ་དང་པོ།
+        <lb ed="#UG"/>
+        དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །གང་གིས་འཆིང་རྣམས་ཡང་དག་རབ་བཅད་ཅིང་།
+        <pb n="17.2a" ed="#DG"/>
+        །མུ་སྟེགས་ཚོགས་རྣམས་ཐམས་ཅད་
+        <pb n="17.3b" ed="#UG"/>
+        རབ་བཅོམ་སྟེ། །སྡེ་དང་བཅས་པའི་བདུད་རྣམས་ངེས་བཅོམ་ནས། །བྱང་ཆུབ་འདི་བརྙེས་དེ་ལ་ཕྱག་འཚལ་ལོ། །ཁྱིམ་དོན་ཆེ་ཆུང་སྤངས་ཏེ་དང་<app type="grammar">
         <!-- a difference between texts follows, it's a grammar type (see list of types in documentation, TODO) -->
-        <app type="grammar">
           <!-- see http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-app.html -->
           <rdg wit="#DG">པོར་</rdg>
           <rdg wit="#UG">པོ་</rdg>
-        </app>
-        རབ་འབྱུང་དཀའ།
-        <app type="spelling-skt">
+        </app>རབ་འབྱུང་དཀའ།<app type="spelling-skt">
           <rdg wit="#DG">།ཀཽ་ཤཱམ་བཱི་</rdg>
           <rdg wit="#UG">།ཀཽ་ཤམ་བི་</rdg>
         </app>
