@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Test</title>
+      </titleStm>
+      <respStmt>
+        <resp>Initial digitalization (2014)</resp>
+        <persName>Esukhia</persName>
+      </respStmt>
+    </fileDesc>
+    <sourceDesc>
+      <listWit>
+        <!-- Please keep the same IDs -->
+        <witness xml:id="DG">སྡེ་དགེ།</witness>
+        <witness xml:id="YL">གཡུང་ལོ།</witness>
+        <witness xml:id="J">འཇང་།</witness>
+        <witness xml:id="PC">པེ་ཅིན།</witness>
+        <witness xml:id="BM">བྲིས་མ།</witness>
+        <witness xml:id="CN">ཅོ་ནེ།</witness>
+        <witness xml:id="NT">སྣར་ཐང་།</witness>
+        <witness xml:id="LS">ལྷ་ས།</witness>
+        <witness xml:id="UG">ཨུརྒ།</witness>
+      </listWit>
+    </sourceDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>
+        <!-- First page -->
+        Title of the Sutra
+      </head>
+      <pb n="1b"><!-- this pagebreak is common to all editions -->
+    ༄༅༅། །རྒྱ་གར་སྐད་དུ། བི་ན་ཡ་བསྟུ། བོད་སྐད་དུ། འདུལ་བ་གཞི། 
+    <lb ed="#DG #PC #NT"/><!-- this linebreak is specific to these editions -->
+    བམ་པོ་དང་པོ།<lb ed="#LS"> དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །གང་གིས་འཆིང་ རྣམས་ཡང་དག་རབ་བཅད་ཅིང་།
+    <!-- page are numbered 1a, 1b, 2a, 2b, etc. End of page (།) and beginning of page (༄༅།) marks are not present,
+         following page break is specific to some editions -->
+    <pb n="2a" ed="#DG #NT"/>།མུ་སྟེགས་ཚོགས་རྣམས་ཐམས་ཅད་<pb n="2a" ed="#PC #UG">རབ་བཅོམ་སྟེ། །སྡེ་དང་བཅས་པའི་བདུད་རྣམས་ངེས་བཅོམ་ནས། །བྱང་ཆུབ་འདི་བརྙེས་དེ་ལ་ ཕྱག་འཚལ་ལོ། །ཁྱིམ་དོན་ཆེ་ཆུང་སྤངས་ཏེ་དང་
+      <!-- a difference between texts follows, it's a grammar type (see list of types in documentation) -->
+      <app type="grammar">
+        <rdg wit="#DG #PC #NT #LS #UG">པོར་</rdg>
+        <rdg wit="#YL #J #CN">པོ་</rdg>
+      </app>
+    རབ་འབྱུང་དཀའ།
+      <app type="spelling-skt">
+        <rdg wit="#DG #NT #LS #UG">།ཀཽ་ཤཱམ་བཱི་</rdg>
+        <rdg wit="#YL #J #PC #CN">།ཀཽ་ཤམ་བི་</rdg>
+      </app>
+    དང་ལས་ཀྱི་གཞི།
+    </body>
+  </text>
+</TEI>
