@@ -23,7 +23,7 @@ In Adarsha texts, TEI Lite seems to be used, with tags:
 
 TEI is also used for translation at [84000](http://84000.co), but the tags used are not relevant here.
 
-## Interesting TEI tags
+## TEI tags of interest
 
 The main set of TEI tags used is [textcrit](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) (critical apparatus).
 
