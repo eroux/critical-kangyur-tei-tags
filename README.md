@@ -1,5 +1,7 @@
 # Kangyur Critical Edition TEI format conventions
 
+[![Join the chat at https://gitter.im/eroux/critical-kangyur-tei-tags](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eroux/critical-kangyur-tei-tags?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This document supposes some basic knowledge on [TEI tags](http://www.tei-c.org/index.xml).
 
 ## Goal
