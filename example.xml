@@ -13,17 +13,16 @@
     <sourceDesc>
       <listWit>
         <!-- This lists the different editions you'll be using
-             See http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-listWit.html
-             Please keep the same IDs and names -->
-        <witness xml:id="DG">སྡེ་དགེ</witness>
-        <witness xml:id="YL">གཡུང་ལོ</witness>
+             See http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-listWit.html -->
+        <witness xml:id="D">སྡེ་དགེ</witness>
+        <witness xml:id="Y">གཡུང་ལོ</witness>
         <witness xml:id="J">འཇང</witness>
-        <witness xml:id="PC">པེ་ཅིན</witness>
-        <witness xml:id="BM">བྲིས་མ</witness>
-        <witness xml:id="CN">ཅོ་ནེ</witness>
-        <witness xml:id="NT">སྣར་ཐང</witness>
-        <witness xml:id="LS">ལྷ་ས</witness>
-        <witness xml:id="UG">ཨུརྒ</witness>
+        <witness xml:id="Q">པེ་ཅིན</witness>
+        <witness xml:id="D">བྲིས་མ</witness>
+        <witness xml:id="C">ཅོ་ནེ</witness>
+        <witness xml:id="N">སྣར་ཐང</witness>
+        <witness xml:id="H">ལྷ་ས</witness>
+        <witness xml:id="U">ཨུརྒ</witness>
       </listWit>
     </sourceDesc>
   </teiHeader>
@@ -31,28 +30,28 @@
     <body>
       <head>
         <!-- First page -->
-        <pb n="17.1a" ed="#DG"/><pb n="17.2b" ed="#UG"/>
+        <pb n="17.1a" ed="#D"/><pb n="17.2b" ed="#U"/>
         <p>Title of the text</p>
       </head>
       <p>
         <!-- first page after title -->
-        <pb n="17.1b" ed="#DG"/><pb n="17.3a" ed="#UG"/>
+        <pb n="17.1b" ed="#D"/><pb n="17.3a" ed="#U"/>
         ༄༅༅། །རྒྱ་གར་སྐད་དུ། བི་ན་ཡ་བསྟུ། བོད་སྐད་དུ། འདུལ་བ་གཞི། 
         <lb ed="#DG"/><!-- linebreaks are edition-specific -->
         བམ་པོ་དང་པོ།
         <lb ed="#UG"/>
         དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །གང་གིས་འཆིང་རྣམས་ཡང་དག་རབ་བཅད་ཅིང་།
-        <pb n="17.2a" ed="#DG"/>
+        <pb n="17.2a" ed="#D"/>
         །མུ་སྟེགས་ཚོགས་རྣམས་ཐམས་ཅད་
-        <pb n="17.3b" ed="#UG"/>
+        <pb n="17.3b" ed="#U"/>
         རབ་བཅོམ་སྟེ། །སྡེ་དང་བཅས་པའི་བདུད་རྣམས་ངེས་བཅོམ་ནས། །བྱང་ཆུབ་འདི་བརྙེས་དེ་ལ་ཕྱག་འཚལ་ལོ། །ཁྱིམ་དོན་ཆེ་ཆུང་སྤངས་ཏེ་དང་<app type="grammar">
         <!-- a difference between texts follows, it's a grammar type (see list of types in documentation, TODO) -->
           <!-- see http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/ref-app.html -->
-          <rdg wit="#DG">པོར་</rdg>
-          <rdg wit="#UG">པོ་</rdg>
+          <rdg wit="#D #Q">པོར་</rdg>
+          <rdg wit="#U">པོ་</rdg>
         </app>རབ་འབྱུང་དཀའ།<app type="spelling-skt">
-          <rdg wit="#DG">།ཀཽ་ཤཱམ་བཱི་</rdg>
-          <rdg wit="#UG">།ཀཽ་ཤམ་བི་</rdg>
+          <rdg wit="#D">།ཀཽ་ཤཱམ་བཱི་</rdg>
+          <rdg wit="#U #Q">།ཀཽ་ཤམ་བི་</rdg>
         </app>
         དང་ལས་ཀྱི་གཞི།
       </p>

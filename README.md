@@ -33,11 +33,13 @@ TEI is also used for translation at [84000](http://84000.co), but the tags used 
 
 The main set of TEI tags used is [textcrit](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html) (critical apparatus).
 
-## Choices
+## General choices
 
 - the smallest consensual unit in a corpus of text like the Kangyur seems to be the "text", so each file should represent such a text (TODO: should more defined in a more extensible way). 
 
 - texts are referenced through their number given in [Hackett's catalogue](http://cup.columbia.edu/book/a-catalogue-of-the-comparative-kangyur-bka-gyur-dpe-bsdur-ma/9781935011149) (example: *CK1*)
+
+- when editions are referenced, it must be through the letters used by Hackett (*CK*, *D*, *Q*, *N*, *C*, *H*, *J*, *U*)
 
 - there seems to be no consensual way to place a text in the Kangyur, so no common table of content can be shared between different editions.
 
