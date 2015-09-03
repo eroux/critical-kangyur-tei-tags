@@ -1,6 +1,6 @@
 # Tibetan text segmentation units
 
-This short page tries to describe the different units used to segment a Tibetan text, and particularly the Kangyur and Tengyur.
+This short page tries to describe the different units used to segment a Tibetan text, and particularly the Kangyur and Tengyur. Tibetan syntax is largely unexplored (cf. the [number of publications](https://en.wikibooks.org/wiki/Research_on_Tibetan_Languages:_A_Bibliography#Classical_Tibetan_Syntax)), so the vocabulary, the definitions, the units, everything may be inaccurate.
 
 This table summarizes the different units:
 
