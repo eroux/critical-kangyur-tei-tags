@@ -14,7 +14,7 @@ The **text** (ཆོས་ཚན in this context, but could also be པོད་
 
 The **page** (ཤོག) and **line** (ཡིག་ཕྲེང) are quite obvious and edition-dependant.
 
-The **verse** (ཚིག་བཅད་ཀྱི་རྐང་པ or ཚིག་རྐང) has the usual definition and is noted in the text, not not all text is in verse.
+The **verse** (ཚིག་བཅད་ཀྱི་རྐང་པ or ཚིག་རྐང) has the usual definition and is noted in the text, but not all text is in verse.
 
 The **shloka** (ཚིག་བཅད) is a group of 4 verses (ཚིག་རྐང་བཞི) when the text is in verse, or a group of 30 syllables when the text is in prose. As different editions may have differences in the text, shlokas are edition-dependant.
 
