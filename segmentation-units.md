@@ -8,7 +8,7 @@ TODO
 
 A **volume** (པོ་ཏི or པོད) is a physical book, it is edition-dependant.
 
-The **category** (སྡེ་ཚན) is a general unit, composed of a group of smaller units.
+The **category** (སྡེ་ཚན) is a general and blur unit, designating a group of smaller units.
 
 The **text** (ཆོས་ཚན in this context, but could also be པོད་ཚན, ལེ་ཚན or ཚན་པ) is the most consensual unit, all editions have the same text segmentation (but not the same order nor the same number of texts).
 
